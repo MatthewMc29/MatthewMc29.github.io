@@ -5,4 +5,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hello My name is Matthew Mcadams iam a fourth year student at Glasgow Caledonian University.
+Hi My name is Matthew Mcadams iam a fourth year student at Glasgow Caledonian University.
